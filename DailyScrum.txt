@@ -1,0 +1,48 @@
+Daily Scrum Tanggal 23/05/2016
+
+Scrum Master : Calwin(14.111.1294)
+1. Membuat Trello
+2. Membuat List yang akan dikerjakan
+3. Masalah : 1. Terdapat Error Saat ingin membuat repo pada github
+	     2. Kurang pemahaman tentang jade
+
+Alvin(14.111.1286)
+1. Mencari Informasi Tentang Virtual Reality
+2. Mencari Gambar-Gambar yang dapat memperbagus desain
+3. Masalah : 1. Informasi yang didapatkan masih kurang banyak
+
+HenHen(14.111.1260)
+1. Mempelajari tentang jade serta stylus nya
+2. Mencari Informasi tentang Oculus Rift
+3. Masalah : 1. Kurang pemahaman tentang penggunaan stylus
+
+Edward(14.111.1235)
+1. Membuat Desain Tampilan 
+2. Membuat Tampilan Sederhana
+3. -
+
+
+Daily Scrum Tanggal 24/05/2016
+
+Scrum Master : Calwin(14.111.1294)
+1. Membuat Trello
+2. Melakukan Push pertama kali
+3. Melakukan Penambahan Design pada page ke 4 dan ke 5 
+4. Masalah : 1. Masih Kurang Paham Tentang Stylus
+
+Alvin(14.111.1286)
+1. Melakukan Clone
+2. Menambahkan Informasi mengenai Virtual Reality pada slide persentasi
+3. Menambahkan Sumber Referensi dalam mencari informasi tentang Oculus
+4. Masalah : -
+
+HenHen(14.111.1260)
+1. Melakukan Clone
+2. Mengubah Tampilan desain
+3. Masalah : 1. Masih Kurang paham mengenai stylus
+
+Edward(14.111.1235)
+1. Melakukan Clone
+2. Menambahkan Informasi mengenai Oculus Pada slide persentasi
+3. Membuat tampilan menjadi lebih menarik
+4. Masalah : -
