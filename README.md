@@ -1,17 +1,6 @@
-# TKPPL
-> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
-
-## View slides locally
-
-First, ensure you have the following installed:
-
-1. [Node.js](http://nodejs.org)
-2. [Bower](http://bower.io): `$ npm install -g bower`
-3. [Gulp](http://gulpjs.com): `$ npm install -g gulp`
-
-Then, install dependencies and run the preview server:
-
-```bash
-$ npm install && bower install
-$ gulp serve
-```
+=============================================== TUGAS TKPPL =============================================
+Jadwal Scrum Master :
+1. Calwin (14.111.1294)             Tanggal 23-25 Mei 2016
+2. Alvin Pangantar (14.111.1286)    Tanggal 26-28 Mei 2016
+3. HenHen (14.111.1260)             Tanggal 29-31 Mei 2016
+4. Edward Surya Jaya (14.111.1235)  Tanggal 01-03 Juni 2016
