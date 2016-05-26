@@ -1,3 +1,12 @@
+============Tugas TKPPPL============
+
+Nama Kelompok : 
+1. Calwin ( 14.111.1294 )
+2. Alvin Pangantar ( 14.111.1286 )
+3. HenHen ( 14.111.1260 )
+4. Edward Surya Jaya (14.111.1235)
+
+
 Daily Scrum Tanggal 23/05/2016
 
 Scrum Master : Calwin(14.111.1294)
@@ -39,10 +48,35 @@ Alvin(14.111.1286)
 HenHen(14.111.1260)
 1. Melakukan Clone
 2. Mengubah Tampilan desain
-3. Masalah : 1. Masih Kurang paham mengenai stylus
+3. Masalah : -
 
 Edward(14.111.1235)
 1. Melakukan Clone
 2. Menambahkan Informasi mengenai Oculus Pada slide persentasi
 3. Membuat tampilan menjadi lebih menarik
+4. Masalah : -
+
+Daily Scrum Tanggal 25/05/2016
+
+Scrum Master : Calwin(14.111.1294)
+1. Membuat Materi Baru pada trello
+2. Melakukan Revisi pada tampilan 
+3. Yang Akan Dilakukan Besok : Membuat Kegunaan Dari Oculus
+4. Masalah : -
+
+Alvin(14.111.1286)
+1. Mencari Materi 
+2. Revisi data yang di slide
+3. Yang Akan Dilakukan Besok : Membuat Desain Tampilan
+3. Masalah : -
+
+HenHen(14.111.1260)
+1. Mencari Materi Pendukung dipresentasi dan menambahkan perbedaan oculus rift dan VR
+2. Yang Akan Dilakukan besok : Mencari kegunaan dari oculus
+3. Masalah : -
+
+Edward(14.111.1235)
+1. Revisi data pada slide
+2. Revisi css pada slide
+3. Yang Akan Dilakukan besok : Membuat Desain Tampilan
 4. Masalah : -
