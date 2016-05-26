@@ -80,3 +80,26 @@ Edward(14.111.1235)
 2. Revisi css pada slide
 3. Yang Akan Dilakukan besok : Membuat Desain Tampilan
 4. Masalah : -
+
+
+=========================================Daily Scrum Tanggal 26-05-2016====================================
+Scrum Master :
+Alvin Pangantar(14.111.1286)
+1. Membuat Trello Diskusi Baru
+2. Menambahkan Data
+3. Masalah : -
+
+Calwin (14.111.1294)
+1. Merubah CSS dan penambahan cover
+2. Menambah data
+3. Masalah : -
+
+Edward Surya Jaya ( 14.111.1235)
+1. Menambahkan Fungsi dari Oculus
+2. Merubah Sedikit Tampilan slide 
+3. Masalah : -
+
+HenHen (14.111.1286)
+1. Menambahkan Fungsi dari Oculus
+2. Mencari Materi tambahan lagi
+3. Masalah : - 
