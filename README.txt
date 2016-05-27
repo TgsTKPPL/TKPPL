@@ -1,4 +1,4 @@
-========================= TUGAS TKPPL ===========================
+========================= TUGAS TKPPL =============================
 
 Dari Tanggal 23 Mei 2016 - 05 Juni 2016
 
@@ -16,8 +16,14 @@ Jadwal Scrum Master :
 
 5. Calwin (14.111.1294) 	    Tanggal 04-05 Juni 2016
 
-Update :
+Update ( 27-Mei-2016) :
 
 Link Trello : https://trello.com/b/Z3QOLUiQ/oculus-dan-virtual-reality
 
 Link GitHub : https://github.com/TgsTKPPL/TKPPL
+
+Yang Harus Dikumpul di E-learning :
+
+1. Burndown Chart dari trello
+
+2. DailyScrum / Logbook yang sudah dibuat
