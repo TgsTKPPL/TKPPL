@@ -103,3 +103,24 @@ HenHen (14.111.1286)
 1. Menambahkan Fungsi dari Oculus
 2. Mencari Materi tambahan lagi
 3. Masalah : - 
+
+=========================================Daily Scrum Tanggal 27-05-2016====================================
+Scrum Master : Alvin (14.111.1286)
+1. Penambahan Data pada slide presentasi
+2. Yang Akan Dilakukan Besok : Update Data baru
+3. Masalah : -
+
+Calwin ( 14.111.1294)
+1. Perubahan CSS
+2. Yang Akan Dilakukan besok : Mencari Font-family yang cocok dengan paragraph
+3. Masalah : -
+
+Edward Surya Jaya ( 14.111.1235)
+1. Revisi data sebelumnya , Revisi CSS , Penambahan data
+2. Yang Akan dilakukan besok : Update Gambar
+3. Masalah : -
+
+HenHen (14.111.1260)
+1. Update Data pada Slide , Revisi data sebelumnya.
+2. Yang Akan Dilakukan besok : Perubahan CSS
+3. Masalah : - 
