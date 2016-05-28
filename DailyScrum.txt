@@ -122,5 +122,5 @@ Edward Surya Jaya ( 14.111.1235)
 
 HenHen (14.111.1260)
 1. Update Data pada Slide , Revisi data sebelumnya.
-2. Yang Akan Dilakukan besok : Perubahan CSS
+2. Yang Akan Dilakukan besok : Perubahan Data
 3. Masalah : - 
