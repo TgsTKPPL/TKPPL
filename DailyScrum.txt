@@ -124,3 +124,24 @@ HenHen (14.111.1260)
 1. Update Data pada Slide , Revisi data sebelumnya.
 2. Yang Akan Dilakukan besok : Perubahan CSS
 3. Masalah : - 
+
+=========================================Daily Scrum Tanggal 28-05-2016====================================
+Scrum Master : Alvin ( 14.111.1286 )
+1. Update Data baru
+2. Yang Akan Dilakukan Besok : Revisi data sebelum buat style nya
+3. Masalah : -
+
+Calwin ( 14.111.1294 )
+1. Mencari Font-family yang cocok dengan paragraph , menambah gambar.
+2. Yang Akan Dilakukan Besok : Revisi data sebelum buat style nya
+3. Masalah : -
+
+Edward Surya Jaya ( 14.111.1235)
+1. Update Gambar
+2. Yang Akan Dilakukan Besok : Revisi data sebelum buat style nya
+3. Masalah : -
+
+HenHen (14.111.1260)
+1. Perubahan CSS
+2. Yang Akan Dilakukan Besok : Revisi data sebelum buat style nya
+3. Masalah : -
