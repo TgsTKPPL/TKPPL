@@ -6,6 +6,8 @@ Nama Kelompok :
 3. HenHen ( 14.111.1260 )
 4. Edward Surya Jaya (14.111.1235)
 
+Note : Daily Scrum Tidak dapat menentukan apa yang kita kerjakan besok, mungkin didaily Scrum kita mau buat ini tetapi
+       besoknya kita membuat yang lain.
 
 Daily Scrum Tanggal 23/05/2016
 
@@ -145,4 +147,25 @@ Edward Surya Jaya ( 14.111.1235)
 HenHen (14.111.1260)
 1. Perubahan CSS
 2. Yang Akan Dilakukan Besok : Revisi data sebelum buat style nya
+3. Masalah : -
+
+=========================================Daily Scrum Tanggal 29-05-2016====================================
+Scrum Master : HenHen ( 14.111.1260 )
+1. Revisi Judul dan Penambahan data
+2. Yang Akan Dilakukan Besok : Edit CSS dan perubahan background
+3. Masalah : -
+
+Calwin ( 14.111.1294 )
+1. Penambahan Video
+2. Yang Akan Dilakukan Besok : Edit CSS dan perubahan background
+3. Masalah : -
+
+Edward Surya Jaya ( 14.111.1235)
+1. Penambahan data penggunaan aplikasi vr
+2. Yang Akan Dilakukan Besok : Edit CSS dan perubahan background
+3. Masalah : -
+
+Alvin Pangantar (14.111.1286)
+1. Penambahan data motion sickness
+2. Yang Akan Dilakukan Besok : Edit CSS dan perubahan background
 3. Masalah : -
