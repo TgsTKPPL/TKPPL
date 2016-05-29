@@ -122,6 +122,7 @@ Edward Surya Jaya ( 14.111.1235)
 
 HenHen (14.111.1260)
 1. Update Data pada Slide , Revisi data sebelumnya.
+<<<<<<< HEAD
 2. Yang Akan Dilakukan besok : Perubahan CSS
 3. Masalah : - 
 
@@ -145,3 +146,7 @@ HenHen (14.111.1260)
 1. Perubahan CSS
 2. Yang Akan Dilakukan Besok : Revisi data sebelum buat style nya
 3. Masalah : -
+=======
+2. Yang Akan Dilakukan besok : Perubahan Data
+3. Masalah : - 
+>>>>>>> 68a5ad511cef97f634e163b67e1a57acaaf88c81
