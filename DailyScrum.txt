@@ -169,3 +169,24 @@ Alvin Pangantar (14.111.1286)
 1. Penambahan data motion sickness
 2. Yang Akan Dilakukan Besok : Edit CSS dan perubahan background
 3. Masalah : -
+
+=========================================Daily Scrum Tanggal 30-05-2016====================================
+Scrum Master : HenHen (14.111.1260)
+1. Perubahan Background pada Nama Kelompok dan perubahan Posisi
+2. Yang AKan dilakukan besok : Edit-edit slide
+3. Masalah : -
+
+Calwin(14.111.1294)
+1. Membuat Slide Card
+2. Yang Akan Dilakukan Besok : Eksperimen Style-style pada jade
+3. Masalah : -
+
+Edward Surya Jaya(14.111.1235)
+1. Edit-Edit Slide
+2. Yang Akan dilakukan besok : Eksperimen stylus pada website
+3. Masalah : -
+
+Alvin ( 14.111.1286)
+1. Penambahan Cover Awal dan Background
+2. Yang Akan Dilakukan besok : Desain Slide
+3. Masalah : -
