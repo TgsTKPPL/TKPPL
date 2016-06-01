@@ -190,3 +190,24 @@ Alvin ( 14.111.1286)
 1. Penambahan Cover Awal dan Background
 2. Yang Akan Dilakukan besok : Desain Slide
 3. Masalah : -
+
+=========================================Daily Scrum Tanggal 31-05-2016====================================
+Scrum Master : HenHen (14.111.1260)
+1. Edit CSS dan Perubahan Nama Clas
+2. Yang AKan dilakukan besok : Edit-edit slide
+3. Masalah : -
+
+Calwin(14.111.1294)
+1. Penambahan gambar dan revisi CSS
+2. Yang Akan Dilakukan Besok : Eksperimen Style-style pada jade
+3. Masalah : -
+
+Edward Surya Jaya(14.111.1235)
+1. Penambahan Gambar Tabel Perbedaan Oculus Rift Dan Samsung VR
+2. Yang Akan dilakukan besok : Edit-Edit Stylus
+3. Masalah : -
+
+Alvin ( 14.111.1286)
+1. penambahan gambar background dan penambahan CSS
+2. Yang Akan Dilakukan besok : Desain Slide
+3. Masalah : -
