@@ -232,3 +232,24 @@ HenHen(14.111.1260)
 1. Edit-Edit CSS/Stylus
 2. Yang Akan dilakukan besok : Membuat Design background yang lebih bagus
 3. Masalah : -
+
+=========================================Daily Scrum Tanggal 02-06-2016====================================
+Scrum Master : Edward Surya Jaya (14.111.1235)
+1. Perubahan Nama Data Pada Stylus dan index.jade
+2. Yang Akan Dilakukan Besok : Edit-Edit Slide
+3. Masalah : -
+
+Calwin(14.111.1294)
+1. Revisi CSS
+2. Yang Akan Dilakukan Besok : Melihat apakah ada data yang salah dan perlu diubah
+3. Masalah : -
+
+Alvin(14.111.1286)
+1. Penambahan Background
+2. Yang Akan Dilakukan besok : Melihat apa yang perlu direvisi
+3. Masalah : -
+
+HenHen(14.111.1260)
+1. Penambahan Video
+2. Yang Akan dilakukan besok : Membuat Design background yang lebih bagus
+3. Masalah : -
