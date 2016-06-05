@@ -277,6 +277,7 @@ HenHen(14.111.1260)
 2. Yang Akan dilakukan besok : Membuat Design background yang lebih bagus
 3. Masalah : -
 
+<<<<<<< HEAD:Logbook.txt
 =========================================Daily Scrum Tanggal 05-06-2016====================================
 Scrum Master : Calwin (14.111.1294)
 1. Membuat BurnDown Chart dan Final Edit Slide
@@ -299,3 +300,26 @@ HenHen(14.111.1260)
 1. Edit Slide untuk terakhir kalinya
 2. -
 3. Masalah : -
+=======
+
+=========================================Daily Scrum Tanggal 03-06-2016====================================
+Scrum Master : Edward Surya Jaya (14.111.1235)
+1. Revisi CSS dan penambahan Data
+2. Yang Akan Dilakukan Besok : Edit-Edit Slide
+3. Masalah : -
+
+Calwin(14.111.1294)
+1. Revisi CSS
+2. Yang Akan Dilakukan Besok : Melihat apakah ada data yang salah dan perlu diubah
+3. Masalah : -
+
+Alvin(14.111.1286)
+1. Penambahan Gambar
+2. Yang Akan Dilakukan besok : Melihat apa yang perlu direvisi
+3. Masalah : -
+
+HenHen(14.111.1260)
+1. Revisi CSS
+2. Yang Akan dilakukan besok : Membuat Design background yang lebih bagus
+3. Masalah : -
+>>>>>>> 5114279c8e2b79a35b0bb5650af54cc6c4898733:DailyScrum.txt
