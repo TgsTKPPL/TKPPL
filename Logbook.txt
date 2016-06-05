@@ -1,21 +1,24 @@
-============Tugas TKPPPL============
+===========================================Tugas TKPPPL===============================================
 
-Nama Kelompok : 
+Judul Proyek : Oculus Dan Virtual Rift
+Nama Anggota Kelompok : 
 1. Calwin ( 14.111.1294 )
 2. Alvin Pangantar ( 14.111.1286 )
 3. HenHen ( 14.111.1260 )
 4. Edward Surya Jaya (14.111.1235)
 
-Note : Daily Scrum Tidak dapat menentukan apa yang kita kerjakan besok, mungkin didaily Scrum kita mau buat ini tetapi
-       besoknya kita membuat yang lain.
+Link Trello : https://trello.com/b/Z3QOLUiQ/oculus-dan-virtual-reality
+Link GitHun : https://github.com/TgsTKPPL/TKPPL
 
-Daily Scrum Tanggal 23/05/2016
+
+===================================Daily Scrum Tanggal 23/05/2016=============================================
 
 Scrum Master : Calwin(14.111.1294)
 1. Membuat Trello
 2. Membuat List yang akan dikerjakan
 3. Masalah : 1. Terdapat Error Saat ingin membuat repo pada github
 	     2. Kurang pemahaman tentang jade
+Anggota :
 
 Alvin(14.111.1286)
 1. Mencari Informasi Tentang Virtual Reality
@@ -33,13 +36,15 @@ Edward(14.111.1235)
 3. -
 
 
-Daily Scrum Tanggal 24/05/2016
+============================================Daily Scrum Tanggal 24/05/2016==============================================
 
 Scrum Master : Calwin(14.111.1294)
 1. Membuat Trello
 2. Melakukan Push pertama kali
 3. Melakukan Penambahan Design pada page ke 4 dan ke 5 
 4. Masalah : 1. Masih Kurang Paham Tentang Stylus
+
+Anggota :
 
 Alvin(14.111.1286)
 1. Melakukan Clone
@@ -58,13 +63,15 @@ Edward(14.111.1235)
 3. Membuat tampilan menjadi lebih menarik
 4. Masalah : -
 
-Daily Scrum Tanggal 25/05/2016
+==================================================Daily Scrum Tanggal 25/05/2016======================================
 
 Scrum Master : Calwin(14.111.1294)
 1. Membuat Materi Baru pada trello
 2. Melakukan Revisi pada tampilan 
 3. Yang Akan Dilakukan Besok : Membuat Kegunaan Dari Oculus
 4. Masalah : -
+
+Anggota :
 
 Alvin(14.111.1286)
 1. Mencari Materi 
@@ -91,6 +98,8 @@ Alvin Pangantar(14.111.1286)
 2. Menambahkan Data
 3. Masalah : -
 
+Anggota :
+
 Calwin (14.111.1294)
 1. Merubah CSS dan penambahan cover
 2. Menambah data
@@ -112,6 +121,8 @@ Scrum Master : Alvin (14.111.1286)
 2. Yang Akan Dilakukan Besok : Update Data baru
 3. Masalah : -
 
+Anggota :
+
 Calwin ( 14.111.1294)
 1. Perubahan CSS
 2. Yang Akan Dilakukan besok : Mencari Font-family yang cocok dengan paragraph
@@ -124,7 +135,6 @@ Edward Surya Jaya ( 14.111.1235)
 
 HenHen (14.111.1260)
 1. Update Data pada Slide , Revisi data sebelumnya.
-<<<<<<< HEAD
 2. Yang Akan Dilakukan besok : Perubahan CSS
 3. Masalah : - 
 
@@ -133,6 +143,8 @@ Scrum Master : Alvin ( 14.111.1286 )
 1. Update Data baru
 2. Yang Akan Dilakukan Besok : Revisi data sebelum buat style nya
 3. Masalah : -
+
+Anggota :
 
 Calwin ( 14.111.1294 )
 1. Mencari Font-family yang cocok dengan paragraph , menambah gambar.
@@ -155,6 +167,8 @@ Scrum Master : HenHen ( 14.111.1260 )
 2. Yang Akan Dilakukan Besok : Edit CSS dan perubahan background
 3. Masalah : -
 
+Anggota :
+
 Calwin ( 14.111.1294 )
 1. Penambahan Video
 2. Yang Akan Dilakukan Besok : Edit CSS dan perubahan background
@@ -175,6 +189,8 @@ Scrum Master : HenHen (14.111.1260)
 1. Perubahan Background pada Nama Kelompok dan perubahan Posisi
 2. Yang AKan dilakukan besok : Edit-edit slide
 3. Masalah : -
+
+Anggota :
 
 Calwin(14.111.1294)
 1. Membuat Slide Card
@@ -197,6 +213,8 @@ Scrum Master : HenHen (14.111.1260)
 2. Yang AKan dilakukan besok : Edit-edit slide
 3. Masalah : -
 
+Anggota :
+
 Calwin(14.111.1294)
 1. Penambahan gambar dan revisi CSS
 2. Yang Akan Dilakukan Besok : Eksperimen Style-style pada jade
@@ -217,6 +235,9 @@ Scrum Master : Edward Surya Jaya (14.111.1235)
 1. Edit-Edit Stylus/CSS
 2. Yang Akan Dilakukan Besok : Edit-Edit Slide dan stylus
 3. Masalah : -
+
+
+Anggota : 
 
 Calwin(14.111.1294)
 1. Pembagusan Posisi gambar
@@ -239,6 +260,8 @@ Scrum Master : Edward Surya Jaya (14.111.1235)
 2. Yang Akan Dilakukan Besok : Edit-Edit Slide
 3. Masalah : -
 
+Anggota : 
+
 Calwin(14.111.1294)
 1. Revisi CSS
 2. Yang Akan Dilakukan Besok : Melihat apakah ada data yang salah dan perlu diubah
@@ -252,4 +275,27 @@ Alvin(14.111.1286)
 HenHen(14.111.1260)
 1. Penambahan Video
 2. Yang Akan dilakukan besok : Membuat Design background yang lebih bagus
+3. Masalah : -
+
+=========================================Daily Scrum Tanggal 05-06-2016====================================
+Scrum Master : Calwin (14.111.1294)
+1. Membuat BurnDown Chart dan Final Edit Slide
+2. -
+3. Masalah : -
+
+Anggota :
+
+Edward Surya Jaya (14.111.1235)
+1. Edit Slide untuk terakhir kalinya
+2. -
+3. Masalah : -
+
+Alvin(14.111.1286)
+1. Edit Slide untuk terakhir kalinya
+2. -
+3. Masalah : -
+
+HenHen(14.111.1260)
+1. Edit Slide untuk terakhir kalinya
+2. -
 3. Masalah : -
